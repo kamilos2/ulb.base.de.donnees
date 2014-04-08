@@ -1,9 +1,10 @@
-package base.de.donnees;
+package baseDeDonnees;
 
 public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World !!");
+
 	}
 
 }
